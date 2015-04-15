@@ -3,9 +3,9 @@
 
   Listen to Running Death's album Overdrive.
 
-  Music as a node module! This lets you stream 128kb MP3 straight from the terminal.
+  > Music as a node module! This lets you stream 128kb MP3 straight from the terminal.
   
-  To download or order the album in full quality, go [here](https://runningdeath.bandcamp.com/album/overdrive).
+  > To download or order the album in full quality, go [here](https://runningdeath.bandcamp.com/album/overdrive).
   
   <a href="https://f1.bcbits.com/img/a2327886601_10.jpg"><img src="https://f1.bcbits.com/img/a2327886601_10.jpg" width=300></a>
 
