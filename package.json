@@ -1,0 +1,15 @@
+{
+  "name": "running-death-overdrive",
+  "version": "0.0.0",
+  "description": "Listen to Running Death&#x27;s album Overdrive",
+  "repository": "juliangruber/running-death-overdrive",
+  "license": "MIT",
+  "dependencies": {
+    "lame": "^1.2.1",
+    "node-bandcamp": "0.0.4",
+    "speaker": "^0.2.4"
+  },
+  "bin": {
+    "running-death-overdrive": "bin/running-death-overdrive.js"
+  }
+}
